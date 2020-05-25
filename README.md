@@ -1,2 +1,2 @@
 # majordomo-MegaD2WRelays_device
-Simple device MegaD2WRelays for Majordomo
+Простое устройство MegaD2WРеле для Majordomo
